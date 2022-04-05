@@ -1,0 +1,16 @@
+package kuis;
+
+public class Print menulis surat  {
+    String struktursurat; 
+    String isisurat;
+    String Kreativitas;
+     String Penerapan Kaidah Bahasa;
+
+    public PrintAnimal(String struktursurat, String isisurat  , String Kreativitas, string Penerapan Kaidah Bahasa  ) {
+        this.struktursurat = struktursurat ;
+        this.isisurat = isisurat ;
+        this.Kreativitas = Kreativitas;
+        String Penerapan Kaidah Bahasa = Penerapan Kaidah Bahasa ;
+    }
+
+    
